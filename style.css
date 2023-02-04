@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(3, 232, 248);
+
+}
+
+h1 {
+background-color: rgb(248, 240, 3);
+color: rgb(255, 0, 0);
+text-align: center;
+}
+h2 {
+    background-color: rgb(3, 248, 7);
+    color: rgb(63, 7, 233);
+text-align: left;
+}
+h3 {
+    background-color: rgba(3, 248, 220, 0.764);
+    color: rgb(128, 7, 233);
+text-align: left;
+}
+li {
+background-color: white;
+color: rgb(255, 0, 115);
+text-align: left;
+}
+
+p {
+font-family: verdana;
+font-size: 50px;
+}
+
